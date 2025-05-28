@@ -1,5 +1,5 @@
 
-# Insurance Policy Administration System – Star Life Insurance Company
+# Star Life Insurance Company
 
 This is a Java-based **Insurance Policy Administration System** designed for **Star Life Insurance Company**. It manages customers, insurance policies, allocations, payments, and claims efficiently through a structured and modular software design.
 
