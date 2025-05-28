@@ -27,13 +27,14 @@ The system streamlines administrative processes involved in policy management an
 
 ## 📂 Project Structure
 
+```
 com/
 ├── client/              # Entry point: UserInterface.java
 ├── exception/           # Custom exception classes
 ├── management/          # Business logic for system modules
 ├── model/               # POJO classes (Customer, Policy, etc.)
 ├── service/             # Core service implementations
-
+```
 
 
 ## ⚙️ Setup Instructions
